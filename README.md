@@ -6,3 +6,9 @@ Nama-nama anggota FGA 2022 FRONTEND - Kelas G - Kelompok 47:
 - Wahyu Budiman 
 - YORIS ROMBE
 - Yudhistira Anom Kurniawan
+
+
+
+Visit here :
+
+https://yoris95.github.io/kelompok47.github.io/
