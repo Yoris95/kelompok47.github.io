@@ -1,4 +1,4 @@
-# kelompok47.github.io
+# kelompok 47
 
 Nama-nama anggota FGA 2022 FRONTEND - Kelas G - Kelompok 47:
 - SYIFA CHAIRUNNISSA DELIVA AKBAR
